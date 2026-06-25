@@ -71,7 +71,7 @@ this is a bullet list of main things to do be done
 :CREATED:  2026-06-25 11:33:29
 :END:
 
-- tiago's organization of files in his live
+- tiago's organization of files in his life
   https://www.youtube.com/watch?v=A0pdL3MS_7E
 
 - chatgpt 
